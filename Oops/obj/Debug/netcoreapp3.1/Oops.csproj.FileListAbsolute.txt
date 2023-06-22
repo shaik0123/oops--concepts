@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.AssemblyInfo.cs
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\Oops\Oops\bin\Debug\netcoreapp3.1\Oops.exe
+C:\Users\91951\source\repos\Oops\Oops\bin\Debug\netcoreapp3.1\Oops.deps.json
+C:\Users\91951\source\repos\Oops\Oops\bin\Debug\netcoreapp3.1\Oops.runtimeconfig.json
+C:\Users\91951\source\repos\Oops\Oops\bin\Debug\netcoreapp3.1\Oops.runtimeconfig.dev.json
+C:\Users\91951\source\repos\Oops\Oops\bin\Debug\netcoreapp3.1\Oops.dll
+C:\Users\91951\source\repos\Oops\Oops\bin\Debug\netcoreapp3.1\Oops.pdb
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.dll
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.pdb
+C:\Users\91951\source\repos\Oops\Oops\obj\Debug\netcoreapp3.1\Oops.genruntimeconfig.cache

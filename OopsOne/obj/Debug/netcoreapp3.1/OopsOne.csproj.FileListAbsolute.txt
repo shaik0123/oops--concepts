@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\Oops\OopsOne\bin\Debug\netcoreapp3.1\OopsOne.exe
+C:\Users\91951\source\repos\Oops\OopsOne\bin\Debug\netcoreapp3.1\OopsOne.deps.json
+C:\Users\91951\source\repos\Oops\OopsOne\bin\Debug\netcoreapp3.1\OopsOne.runtimeconfig.json
+C:\Users\91951\source\repos\Oops\OopsOne\bin\Debug\netcoreapp3.1\OopsOne.runtimeconfig.dev.json
+C:\Users\91951\source\repos\Oops\OopsOne\bin\Debug\netcoreapp3.1\OopsOne.dll
+C:\Users\91951\source\repos\Oops\OopsOne\bin\Debug\netcoreapp3.1\OopsOne.pdb
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.AssemblyInfo.cs
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.dll
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.pdb
+C:\Users\91951\source\repos\Oops\OopsOne\obj\Debug\netcoreapp3.1\OopsOne.genruntimeconfig.cache
